@@ -1,0 +1,1 @@
+export const STORE_COVID_DATA = "STORE_COVID_DATA"
